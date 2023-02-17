@@ -2,9 +2,9 @@
 
 Выполните задачи:
 
-1. [Таймер обратного отсчёта.]([./Задача 1/](https://github.com/escapefromserpukhov/js-features/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201))
-2. [Игра-кликер.](./Задача 2/)
-3. [Игра «Убей кротов».](./Задача 3/)
+1. [Таймер обратного отсчёта.](https://github.com/escapefromserpukhov/js-features/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%201)
+2. [Игра-кликер.](https://github.com/escapefromserpukhov/js-features/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%202)
+3. [Игра «Убей кротов».](https://github.com/escapefromserpukhov/js-features/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203)
 
 Чтобы получить зачёт, выполните все три задачи. Пришлите на проверку все три задачи сразу, не частями.
 
